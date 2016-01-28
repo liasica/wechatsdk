@@ -1,5 +1,5 @@
 {
-  "name": "liasica/yii2-liasica-wechatsdk",
+  "name": "liasica/yii2-wechatsdk",
   "description": "基于微信开发的SDK",
   "type": "yii2-extension",
   "keywords": [
